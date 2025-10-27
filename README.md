@@ -2,6 +2,9 @@
 
 A simple C++ program that finds the **student with the highest marks** in a class using **arrays of objects** and **object-oriented programming** concepts.
 
+## 🔗 GitHub Repository  
+[View Project on GitHub](https://github.com/Ritu-Raj64/Student-Marks-Management-System)
+
 ---
 
 ## ✨ Features
