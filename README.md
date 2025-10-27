@@ -1,5 +1,4 @@
 # Student-Marks-Management-System
-# 🧮 Student Topper Finder (C++ Project)
 
 A simple C++ program that finds the **student with the highest marks** in a class using **arrays of objects** and **object-oriented programming** concepts.
 
@@ -24,17 +23,6 @@ A simple C++ program that finds the **student with the highest marks** in a clas
 - Basic Control Structures and Loops  
 - Percentage Calculation and Comparison Logic  
 
----
-
-## 🧑‍💻 Author
-
-**Name:** Ritu Raaz  
-**Course:** B.Sc (AI & ML)  
-**Language:** C++  
-**IDE:** Visual Studio  
-**Focus Area:** Object-Oriented & Scientific Computing  
-
----
 
 ## 🚀 How to Run
 
@@ -80,3 +68,15 @@ Percentage = 86.8%
 
 This project is **open-source** and free to use for educational or personal projects.
 Attribution is appreciated but not required.
+
+---
+
+## 🧑‍💻 Author
+
+**Name:** Ritu Raaz  
+**Course:** B.Sc (AI & ML)  
+**Language:** C++  
+**IDE:** Visual Studio  
+**Focus Area:** Object-Oriented Programming  
+
+---
